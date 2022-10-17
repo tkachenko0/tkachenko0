@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viacheslav Tkachenko
-- 📚 I’m currently learning computer science and programming at the Department 
+- 📚 I am currently enrolled in the Master's Degree in Computer Science computer science and programming at the Department 
     of Mathematics and Computer Science of the [University of Cagliari](https://www.unica.it/unica/en/homepage.page)
 - 📫 How to reach me: tvs034@gmail.com
 
