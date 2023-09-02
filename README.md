@@ -22,7 +22,4 @@
 - 📫 How to reach me: t.viacheslav00@gmail.com
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tkachenko0&theme=tokyonight)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=tkachenko0&theme=tokyonight)
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham) 
