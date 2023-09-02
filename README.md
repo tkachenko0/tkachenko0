@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Viacheslav Tkachenko
 
-
-
 <div align="left">
     <a href="https://www.github.com/tkachenko0">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
