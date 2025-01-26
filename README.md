@@ -11,10 +11,10 @@
 
 <br>
 
-- 📚 I am currently enrolled in the Master's Degree in Computer Science and programming at the Department 
-    of Mathematics and Computer Science of the [University of Cagliari](https://www.unica.it/unica/en/homepage.page)
-- ⛓️ My interests are addressed in the field of Cryptocurrencies, Smart Contracts and Decentralized Finance
-- 📫 How to reach me: t.viacheslav00@gmail.
+- 🎓 I hold a Master's Degree in Computer Science and Programming from the Department of Mathematics and Computer Science of the University of Cagliari.
+- 💻 I am a Software Developer specializing in Cloud Development.
+- ⛓️ My interests are in the fields of Cryptocurrencies, Smart Contracts, and Decentralized Finance.
+- 📫 How to reach me: t.viacheslav00@gmail.com
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tkachenko0&theme=tokyonight)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham) 
