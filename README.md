@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Viacheslav Tkachenko
+# Hi, I’m Viacheslav Tkachenko
 
 I am a full-stack developer with an emphasis on best practices, developer experience, and programming design patterns. I hold a Master’s degree in Computer Science and am currently studying cloud architectures, with a particular focus on DevOps and microservices.
 
